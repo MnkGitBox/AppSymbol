@@ -140,4 +140,3 @@ You can find the original sample code [here](SampleCode.swift).
 
 AppSymbol is released under the MIT license. See LICENSE for details.
 
----
