@@ -2,6 +2,7 @@
 [![Version](https://img.shields.io/cocoapods/v/AppSymbol.svg?style=flat)](https://cocoapods.org/pods/AppSymbol)
 [![License](https://img.shields.io/cocoapods/l/AppSymbol.svg?style=flat)](https://cocoapods.org/pods/AppSymbol)
 [![Platform](https://img.shields.io/cocoapods/p/AppSymbol.svg?style=flat)](https://cocoapods.org/pods/AppSymbol)
+![SPM](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-orange)
 
 Use the *SFSymbol* in your ios 13 below deployment target projects without any version check.
 <br>
